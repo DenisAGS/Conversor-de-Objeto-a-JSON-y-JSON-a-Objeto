@@ -10,3 +10,7 @@ El proyecto incluye un archivo HTML y un archivo JavaScript:
 
 * index.html: Contiene el formulario de entrada y botones para convertir los datos.
 * alumno.js: Contiene la lógica para convertir entre objetos y JSON.
+
+# 🧑‍💻 Tecnologías Utilizadas
+* HTML
+* JavaScript
